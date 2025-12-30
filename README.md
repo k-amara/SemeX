@@ -10,7 +10,7 @@
 We validate SemeX using traditional explainability model-based evaluation with faithfulness and human-based evaluation with accuracy.
 Then we demonstrate how **actionability** can be used as the new quality proxy of explanations, testing SemeX explanations on their steering effectiveness in two use-cases (safety alignment and sentiment polarization), all **without retraining** the model.
 
-See the [papers](#citation) for more details.
+See the [paper](#citation) for more details.
 
 ---
 
@@ -205,7 +205,7 @@ If you use SemeX in your research, please cite:
 
 ```bibtex
 @article{Anonymous,
-  title = {Actionable Explainability for LLMs via Semantic Attributions and Steering-Based Evaluations},
+  title = {Actionable Explainability for LLMs via Semantic Attributions and Steering-Based Evaluation},
   author = {Anonymous},
   journal = {Anonymous},
   year = {2025}
